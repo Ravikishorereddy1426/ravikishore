@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ravikishore/static/css/main.ff02f4b5.css",
+    "main.js": "/ravikishore/static/js/main.06a0cd08.js",
+    "static/js/787.c253c422.chunk.js": "/ravikishore/static/js/787.c253c422.chunk.js",
+    "static/media/photo1.jpg": "/ravikishore/static/media/photo1.a345a64e00c9c722368a.jpg",
+    "index.html": "/ravikishore/index.html",
+    "main.ff02f4b5.css.map": "/ravikishore/static/css/main.ff02f4b5.css.map",
+    "main.06a0cd08.js.map": "/ravikishore/static/js/main.06a0cd08.js.map",
+    "787.c253c422.chunk.js.map": "/ravikishore/static/js/787.c253c422.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.06a0cd08.js"
+  ]
+}
